@@ -2,6 +2,8 @@
 
 This project focuses on analyzing the unemployment rate in India using Python. The objective is to gain a deeper understanding of the unemployment trends in the country and explore potential factors influencing the unemployment rate. The analysis is carried out using various statistical and data visualization techniques to derive meaningful insights from the available data.
 
+## Dataset - https://www.kaggle.com/datasets/gokulrajkmv/unemployment-in-india 
+
 ## Background
 
 Unemployment is a crucial economic indicator that reflects the percentage of the labor force that is actively seeking employment but is unable to find suitable jobs. It is an important measure of the overall health of the economy and can have significant social and political implications. By analyzing the unemployment rate, policymakers, researchers, and economists can assess the impact of various factors such as economic policies, education, industrial growth, and demographic changes on the labor market.
