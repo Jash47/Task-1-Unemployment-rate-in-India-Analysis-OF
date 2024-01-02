@@ -1,4 +1,4 @@
-# Unemployment Rate in India Analysis using Python
+# Unemployment Rate in India Analysis
 
 This project focuses on analyzing the unemployment rate in India using Python. The objective is to gain a deeper understanding of the unemployment trends in the country and explore potential factors influencing the unemployment rate. The analysis is carried out using various statistical and data visualization techniques to derive meaningful insights from the available data.
 
